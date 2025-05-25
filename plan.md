@@ -42,7 +42,6 @@
 
   The channel-wise scales are merged into the weight tensors, allowing
   efficient inference using the standard TQ2_0 quantization format.
-  ```
 - [ ] **Technical documentation**
 #### 4.2 Performance Validation
 - [ ] **Benchmark against original**
